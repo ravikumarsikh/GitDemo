@@ -12,5 +12,6 @@ public class test2 {
 		System.out.println("firefox");
 		System.out.println("git adding");
 		System.out.println("git updated");
+		System.out.println("git dev branch");
 	}
 }

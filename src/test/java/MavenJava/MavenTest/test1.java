@@ -12,5 +12,17 @@ public class test1 {
 	System.out.println("chrome");
 	System.out.println("git adding");
 	System.out.println("git pulled");
+	System.out.println("git dev branch");
 	}
+	
+	
+	@Test
+	public void browserchrome1()
+	{
+	System.out.println("chrome");
+	System.out.println("git adding");
+	System.out.println("git pulled");
+	System.out.println("git dev branch");
+	}
+	
 }
