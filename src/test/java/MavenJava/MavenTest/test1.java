@@ -11,5 +11,6 @@ public class test1 {
 	{
 	System.out.println("chrome");
 	System.out.println("git adding");
+	System.out.println("git pulled");
 	}
 }
