@@ -10,5 +10,6 @@ public class test2 {
 	public void firefoxbrowser()
 	{
 		System.out.println("firefox");
+		System.out.println("git adding");
 	}
 }

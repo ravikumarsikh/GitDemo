@@ -10,5 +10,6 @@ public class test1 {
 	public void browserchrome()
 	{
 	System.out.println("chrome");
+	System.out.println("git adding");
 	}
 }
